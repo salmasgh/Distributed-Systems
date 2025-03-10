@@ -1,3 +1,4 @@
+package Server;
 import java.io.IOException;
 import com.rabbitmq.client.Delivery;
 
