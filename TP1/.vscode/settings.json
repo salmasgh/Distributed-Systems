@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Jar Libs for java RabbitMq/amqp-client-5.6.0.jar",
+        "Jar Libs for java RabbitMq/rabbitmq-jms-1.11.1.jar",
+        "Jar Libs for java RabbitMq/slf4j-api-1.7.25.jar",
+        "Jar Libs for java RabbitMq/slf4j-api-1.8.0-beta2.jar",
+        "Jar Libs for java RabbitMq/slf4j-nop-1.6.1.jar",
+        "Jar Libs for java RabbitMq/slf4j-nop-1.8.0-beta0.jar"
+    ]
+}
