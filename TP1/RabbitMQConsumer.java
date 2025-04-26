@@ -1,7 +1,5 @@
 import com.rabbitmq.client.*;
 
-import java.io.IOException;
-
 public class RabbitMQConsumer {
     public static void main(String[] args) {
         try {
